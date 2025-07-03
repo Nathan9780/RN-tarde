@@ -11,3 +11,5 @@ let AcreUsu = parseFloat(Prompt("Diga um percentual"))
 let PrecoAcre = AcreUsu*PrecoCus/100
 
 console.log("Junto do Percentual : " + (PrecoAcre+PrecoCus) )
+
+//Perdão Rei, não fomos bons o suficiente\\
